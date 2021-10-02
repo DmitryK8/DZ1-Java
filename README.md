@@ -13,13 +13,13 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Задача1 по ссылке https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+* [Задача1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
 
 
 
 В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
-* Задача1 по ссылке https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+* [Задача1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
 Тестирование производилось в следующем окружении:
 * Windows 10 Pro 64-разрядная (10.0, сборка 19043)
