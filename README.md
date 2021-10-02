@@ -7,7 +7,7 @@
 На тестирование затрачено: 5 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/DmitryK8/DZ1-Java/issues/1
+* For more details, see the [Пополнение счета привело к ошибке](https://github.com/DmitryK8/DZ1-Java/issues/1)
 
 
 ## Описание процесса тестирования
